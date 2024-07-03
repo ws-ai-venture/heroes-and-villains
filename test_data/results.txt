@@ -1,0 +1,43 @@
+TESTING SUPERHEROES:
+Superhero: {'Name': 'Solar Sentinel', 'Passion': 'High', 'Hair Color': 'Blond', 'Powers': 'Flying', 'Home': 'Headquarters'}
+Supervillain: {'Name': 'Shadow Striker', 'Passion': 'Medium', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Cave'}
+Superhero: {'Name': 'Blaze Guardian', 'Passion': 'High', 'Hair Color': 'Red', 'Powers': 'Tech Gadgets', 'Home': 'Lair'}
+Superhero: {'Name': 'Aero Avenger', 'Passion': 'Medium', 'Hair Color': 'Blond', 'Powers': 'Flying', 'Home': 'House'}
+Superhero: {'Name': 'Iron Protector', 'Passion': 'Low', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Headquarters'}
+Superhero: {'Name': 'Scarlet Defender', 'Passion': 'High', 'Hair Color': 'Red', 'Powers': 'Flying', 'Home': 'Lair'}
+Supervillain: {'Name': 'Thunder Tech', 'Passion': 'Medium', 'Hair Color': 'Blond', 'Powers': 'Tech Gadgets', 'Home': 'Cave'}
+Superhero: {'Name': 'Midnight Guardian', 'Passion': 'Medium', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'House'}
+Superhero: {'Name': 'Ember Avenger', 'Passion': 'High', 'Hair Color': 'Red', 'Powers': 'Tech Gadgets', 'Home': 'Headquarters'}
+Superhero: {'Name': 'Sky Sentinel', 'Passion': 'Low', 'Hair Color': 'Blond', 'Powers': 'Flying', 'Home': 'Lair'}
+Supervillain: {'Name': 'Obsidian Protector', 'Passion': 'Medium', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Cave'}
+Superhero: {'Name': 'Crimson Defender', 'Passion': 'High', 'Hair Color': 'Red', 'Powers': 'Flying', 'Home': 'House'}
+Superhero: {'Name': 'Titan Tech', 'Passion': 'Medium', 'Hair Color': 'Blond', 'Powers': 'Tech Gadgets', 'Home': 'Headquarters'}
+Superhero: {'Name': 'Night Avenger', 'Passion': 'Low', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Lair'}
+Superhero: {'Name': 'Flame Guardian', 'Passion': 'High', 'Hair Color': 'Red', 'Powers': 'Flying', 'Home': 'Cave'}
+Superhero: {'Name': 'Electro Sentinel', 'Passion': 'Medium', 'Hair Color': 'Blond', 'Powers': 'Tech Gadgets', 'Home': 'House'}
+Superhero: {'Name': 'Onyx Protector', 'Passion': 'Medium', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Headquarters'}
+Superhero: {'Name': 'Ruby Defender', 'Passion': 'High', 'Hair Color': 'Red', 'Powers': 'Flying', 'Home': 'Lair'}
+Supervillain: {'Name': 'Lightning Tech', 'Passion': 'Medium', 'Hair Color': 'Blond', 'Powers': 'Tech Gadgets', 'Home': 'Cave'}
+Superhero: {'Name': 'Dusk Avenger', 'Passion': 'Low', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'House'}
+
+TESTING VILLAINS:
+Superhero: {'Name': 'Emerald Envy', 'Passion': 'High', 'Hair Color': 'Green', 'Powers': 'Tech Gadgets', 'Home': 'Lair'}
+Supervillain: {'Name': 'Midnight Menace', 'Passion': 'Very High', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Cave'}
+Supervillain: {'Name': 'Crimson Chaos', 'Passion': 'Medium', 'Hair Color': 'Red', 'Powers': 'Telekinesis', 'Home': 'Abandoned Factory'}
+Superhero: {'Name': 'Toxic Terror', 'Passion': 'High', 'Hair Color': 'Green', 'Powers': 'Tech Gadgets', 'Home': 'Lair'}
+Supervillain: {'Name': 'Dark Destroyer', 'Passion': 'Very High', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Cave'}
+Supervillain: {'Name': 'Scarlet Scourge', 'Passion': 'Medium', 'Hair Color': 'Red', 'Powers': 'Telekinesis', 'Home': 'Abandoned Factory'}
+Superhero: {'Name': 'Viridian Vengeance', 'Passion': 'High', 'Hair Color': 'Green', 'Powers': 'Tech Gadgets', 'Home': 'Lair'}
+Supervillain: {'Name': 'Shadow Stalker', 'Passion': 'Very High', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Cave'}
+Supervillain: {'Name': 'Ruby Ruin', 'Passion': 'Medium', 'Hair Color': 'Red', 'Powers': 'Telekinesis', 'Home': 'Abandoned Factory'}
+Superhero: {'Name': 'Green Ghoul', 'Passion': 'High', 'Hair Color': 'Green', 'Powers': 'Tech Gadgets', 'Home': 'Lair'}
+Supervillain: {'Name': 'Black Bane', 'Passion': 'Very High', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Cave'}
+Supervillain: {'Name': 'Red Ripper', 'Passion': 'Medium', 'Hair Color': 'Red', 'Powers': 'Telekinesis', 'Home': 'Abandoned Factory'}
+Superhero: {'Name': 'Grim Guardian', 'Passion': 'High', 'Hair Color': 'Green', 'Powers': 'Tech Gadgets', 'Home': 'Lair'}
+Supervillain: {'Name': 'Obsidian Oppressor', 'Passion': 'Very High', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Cave'}
+Supervillain: {'Name': 'Crimson Crusher', 'Passion': 'Medium', 'Hair Color': 'Red', 'Powers': 'Telekinesis', 'Home': 'Abandoned Factory'}
+Superhero: {'Name': 'Emerald Executioner', 'Passion': 'High', 'Hair Color': 'Green', 'Powers': 'Tech Gadgets', 'Home': 'Lair'}
+Supervillain: {'Name': 'Black Blight', 'Passion': 'Very High', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Cave'}
+Supervillain: {'Name': 'Ruby Ravager', 'Passion': 'Medium', 'Hair Color': 'Red', 'Powers': 'Telekinesis', 'Home': 'Abandoned Factory'}
+Superhero: {'Name': 'Toxic Tormentor', 'Passion': 'High', 'Hair Color': 'Green', 'Powers': 'Tech Gadgets', 'Home': 'Lair'}
+Supervillain: {'Name': 'Shadow Smasher', 'Passion': 'Very High', 'Hair Color': 'Black', 'Powers': 'Strength', 'Home': 'Cave'}
